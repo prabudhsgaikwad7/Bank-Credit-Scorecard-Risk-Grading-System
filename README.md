@@ -45,7 +45,7 @@ The interactive dashboard allows loan officers or applicants to input numeric fe
 ```text
 📁 bank-credit-scorecard/
 │
-├── AIFB_project.ipynb    # Full Data Science notebook (EDA, Cleaning, ML Training, Math)
+├── Bank_Credit_Scorecard_&_Risk_Grading_System.ipynb # Full Data Science notebook (EDA, Cleaning, ML Training, Math)
 ├── app.py                # Frontend dashboard user interface code (Streamlit)
 ├── requirements.txt      # Automated setup environment dependencies
 └── README.md             # Project documentation and summary
